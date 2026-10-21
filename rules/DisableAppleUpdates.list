@@ -15,6 +15,6 @@ DOMAIN-SUFFIX,ads.internal.unity3d.com
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
 
-DOMAIN,swscan.apple.com
-DOMAIN,swcdn.apple.com
-DOMAIN,swdist.apple.com
+# DOMAIN,swscan.apple.com
+# DOMAIN,swcdn.apple.com
+# DOMAIN,swdist.apple.com
