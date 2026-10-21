@@ -15,17 +15,8 @@ DOMAIN-SUFFIX,ads.internal.unity3d.com
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
 
-# macOS 系统更新检查与下载
 DOMAIN,swscan.apple.com
 DOMAIN,swquery.apple.com
 DOMAIN,swcdn.apple.com
 DOMAIN,swdist.apple.com
 DOMAIN,swdownload.apple.com
-DOMAIN,swpost.apple.com
-DOMAIN,skl.apple.com
-DOMAIN,ig.apple.com
-DOMAIN,gg.apple.com
-DOMAIN,gs.apple.com
-DOMAIN,updates.cdn-apple.com
-DOMAIN,updates-http.cdn-apple.com
-DOMAIN,configuration.apple.com
